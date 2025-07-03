@@ -21,6 +21,7 @@ Este repositório contém os exercícios da Sprint 8 do curso de QA, focados em 
 ---
   
 ## 🔧 Tecnologias e Ferramentas
+
 - Python
 - Selenium WebDriver
 - Pytest
@@ -29,6 +30,7 @@ Este repositório contém os exercícios da Sprint 8 do curso de QA, focados em 
 ---
 
 ## ▶️ Como Executar
+
 1. Clone o repositório
 ```bash
 git clone https://github.com/celiapaivab/QA-Brazil_S8-Tasks.git
