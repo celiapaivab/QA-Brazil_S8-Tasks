@@ -3,6 +3,8 @@
 ![QA](https://img.shields.io/badge/Testes-Automatizados-blue)
 ![Framework](https://img.shields.io/badge/Selenium-WebDriver-green)
 ![Linguagem](https://img.shields.io/badge/Python-3.x-yellow)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/celia-bruno)
+
 
 ---
 
